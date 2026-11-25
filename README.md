@@ -7,7 +7,7 @@ The Blood Bank Management System is a simple menu-driven application developed u
 
 The system allows users to register donors, search donors by blood group, update blood stock, issue blood units and view donor reports.
 
-Features
+Features--
 
 Donor Registration
 
@@ -27,7 +27,7 @@ Display Available Blood Stock
 
 File Handling for Data Storage
 
-Technologies Used
+Technologies Used--
 
 Programming Language: C
 
