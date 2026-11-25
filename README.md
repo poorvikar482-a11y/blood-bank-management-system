@@ -36,13 +36,13 @@ The system allows users to register donors, search donors by blood group, update
 - O+
 - O-
 4. Main Menu
-1. Donor Registration
-2. Update Blood Stock
-3. Search Blood Group
-4. Issue Blood
-5. Donor Report
-6. Show Blood Stock
-7. Exit
+   1. Donor Registration
+   2. Update Blood Stock
+   3. Search Blood Group
+   4. Issue Blood
+   5. Donor Report
+   6. Show Blood Stock
+   7. Exit
 
 5.  File Handling
 The project uses two text files:
